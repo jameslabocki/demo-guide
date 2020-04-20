@@ -27,5 +27,6 @@ nav:
     - 'Container Native Virtualization': 'cnv.md'
     - 'OpenShift and Container Storage for Admins': 'admin-storage.md'
     - 'OpenShift Metering': 'metering.md'
+    - 'Cluster Application Migration': 'cluster-application-migration.md'
 - GitOps:
     - 'Getting Started with ArgoCD': 'argocd.md'
